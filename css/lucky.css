@@ -19,3 +19,14 @@ nav a:hover{
 nav a:first-child{
     font-size: 1.5em;
 }
+
+nav a:first-child img{
+    width: 40px;
+}
+
+.banner{
+    background-image: url(../photos/banner.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+}
